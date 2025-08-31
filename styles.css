@@ -224,7 +224,7 @@ caption {
 }
 
 .img-1 {
-  min-height: 74vh;
+  min-height: 78vh;
   max-height: min-content;
   width: 55vw;
   background-image: url(ss1.png);
@@ -238,7 +238,7 @@ caption {
 }
 
 .img-2 {
-  min-height: 73vh;
+  min-height: 78vh;
   max-height: min-content;
   width: 55vw;
   background-image: url(d1.png);
@@ -266,7 +266,7 @@ caption {
 }
 
 .img-4 {
-  min-height: 73vh;
+  min-height: 76vh;
   max-height: min-content;
   width: 55vw;
   background-image: url(u1.png);
@@ -300,7 +300,6 @@ caption {
 }
 
 .footer-text a {
-  padding-left: 55px;
   background-color: black;
   color: white;
   padding: 15px;
