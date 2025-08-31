@@ -155,10 +155,10 @@ h1 {
 
 .paragraph-1 {
   padding: 60px;
-  line-height: 35px;
-  font-size: 13pt;
-  max-height: 78vh;
-  min-height: fit-content;
+  line-height: 25px;
+  font-size: 12pt;
+  height: auto;
+  max-height: fit-content;
   background-color: white;
   border-radius: 20px;
   text-align: right;
@@ -169,16 +169,17 @@ h1 {
 
 .paragraph-2 {
   padding: 60px;
-  line-height: 35px;
-  font-size: 13pt;
-    max-height: 78vh;
-  min-height: fit-content;
+  line-height: 25px;
+  font-size: 12pt;
+  height: auto;
+  max-height: fit-content;
   background-color: white;
   border-radius: 20px;
   text-align: left;
   min-width: 30%;
   max-width: fit-content;
 }
+
 em {
   background-color: white;
   font-size: 10pt;
@@ -253,7 +254,7 @@ caption {
 }
 
 .img-3 {
-  min-height: 73vh;
+  min-height: 76vh;
   max-height: min-content;
   width: 55vw;
   background-image: url(tp1.png);
@@ -267,7 +268,7 @@ caption {
 }
 
 .img-4 {
-  min-height: 76vh;
+  min-height: 79vh;
   max-height: min-content;
   width: 55vw;
   background-image: url(u1.png);
@@ -338,4 +339,5 @@ caption {
   padding-left: 125px;
 
 }
+
 
